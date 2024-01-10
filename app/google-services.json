@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433004802098",
+    "project_id": "agenda-app-118f9",
+    "storage_bucket": "agenda-app-118f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433004802098:android:d631ed995a5a9e05ed4c2b",
+        "android_client_info": {
+          "package_name": "com.example.agendaonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433004802098-e2ph15f9215h5a6b6scsutsj75nadj9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agendaonline",
+            "certificate_hash": "b97ba0e6110881a13ba07f49b2803373a2f1d2e8"
+          }
+        },
+        {
+          "client_id": "433004802098-40q7beqkei7o1rotj4vbl1sg97b6982c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXixA2z9afTJrdDiwow3BPkrs6SstAqCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433004802098-40q7beqkei7o1rotj4vbl1sg97b6982c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
